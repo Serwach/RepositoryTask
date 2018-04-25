@@ -1,0 +1,33 @@
+body {
+	font-family: 'Gugi', cursive;
+	text-align: center;
+}
+
+button {
+    background-color: #e7e7e7;
+    border: none;
+    color: black;
+    font-size: 14px;
+    padding: 12px 24px;
+    text-align: center;
+}
+
+#title {
+	padding-top: 20px;
+	font-family: 'Lobster', cursive;
+	font-size: 30px;
+}
+
+#filterInput {
+    background-color: #e7e7e7;
+    border: none;
+    color: black;
+    font-size: 14px;
+    padding: 12px 24px;
+    text-align: center;
+}
+
+::placeholder {
+	color: black;
+    opacity: 1;
+}
